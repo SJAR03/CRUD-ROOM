@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/activity_main.xml" value="0.2001013171225937" />
         <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/fragment_actualizar.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/fragment_lista.xml" value="0.18645833333333334" />
-        <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/fragment_nuevo_usuario.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/fragment_nuevo_usuario.xml" value="0.25" />
         <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/layout/lista_usuario.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/sayer/AndroidStudioProjects/PersistenciaROOM/app/src/main/res/menu/delete_menu.xml" value="0.18645833333333334" />
       </map>
